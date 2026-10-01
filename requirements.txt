@@ -1,0 +1,1 @@
+# CountIt — Python 3.10+, stdlib only (tkinter)
